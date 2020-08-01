@@ -1,1 +1,1 @@
-console.log("Hi Node Sample repo");
+console.log("Hi Node JS Sample repo");
